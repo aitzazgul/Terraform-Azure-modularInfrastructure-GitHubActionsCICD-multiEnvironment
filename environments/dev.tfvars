@@ -104,6 +104,7 @@ nics = {
     }
   }
 
+
   nic2 = {
     nic_name    = "dusranic"
     rg_name     = "rit-dev-rg1"
