@@ -24,7 +24,8 @@ resource "azurerm_network_interface" "nic" {
 
       public_ip_address_id = (
         try(ip_configuration.value.public_ip_name, null) != null &&
-        contains(keys(var.pip_ids), ip_configuration.value.public_ip_name)
+        # contains(keys(var.pip_ids), ip_configuration.value.public_ip_name)
+        ip_configuration.value.public_ip_name != null && contains(keys(var.pip_ids), ip_configuration.value.public_ip_name)
       ) ? var.pip_ids[ip_configuration.value.public_ip_name] : null
 
       primary = try(ip_configuration.value.primary, false)
