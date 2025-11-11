@@ -54,7 +54,8 @@ permissions:
 jobs:
   init:
     if: ${{ inputs.runInit }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     # environment: ${{ inputs.environment }}
     defaults:
       run:
@@ -96,7 +97,8 @@ jobs:
   fmt:
     needs: [init]
     if: ${{ always() && inputs.runFmt && needs.init.result == 'success' }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: infra
@@ -113,7 +115,8 @@ jobs:
                  ( !inputs.runFmt && needs.init.result == 'success' )
                )
          }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: infra
@@ -131,7 +134,8 @@ jobs:
                  ( !inputs.runValidate && !inputs.runFmt && needs.init.result    == 'success' )
                )
          }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     # environment: ${{ inputs.environment }}
     defaults:
       run:
@@ -166,7 +170,8 @@ jobs:
                  ( !inputs.runPlan && !inputs.runValidate && !inputs.runFmt && needs.init.result == 'success' )
                )
          }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     environment: ${{ inputs.environment }}
     defaults:
       run:
@@ -211,7 +216,8 @@ jobs:
                  ( !inputs.runApply && !inputs.runPlan && !inputs.runValidate && !inputs.runFmt && needs.init.result == 'success' )
                )
          }}
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     environment: ${{ inputs.environment }}
     defaults:
       run:
