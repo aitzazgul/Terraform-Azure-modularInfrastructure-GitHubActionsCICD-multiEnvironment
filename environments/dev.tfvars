@@ -85,6 +85,7 @@ nsg = {
 #####
 #####
 
+
 nics = {
   nic1 = {
     nic_name    = "pahelanic"
